@@ -1,14 +1,14 @@
-# Online-Retail-Analysis
-#  Online Retail — Customer Behaviour & Segmentation Analysis
 
-##  Live Report
- [View the full report]((https://chach-15.github.io/Online-Retail-Analysis/))
+# 🛒 Online Retail — Customer Behaviour & Segmentation Analysis
+
+## 🌐 Live Report
+👉 [View the full report](https://chach-15.github.io/Online-Retail-Analysis)
 
 A full end-to-end data analysis project on a UK-based e-commerce retailer's transaction data. Covers data cleaning, exploratory analysis, return behaviour, geographic distribution, recency modelling, and unsupervised customer segmentation using KMeans clustering.
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
 
 ```
 online-retail-analysis/
@@ -21,7 +21,7 @@ online-retail-analysis/
 
 ---
 
-##  Project Overview
+## 📌 Project Overview
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ jupyter notebook OnlineRetail_Enhanced.ipynb
 A full visual report with all 10 charts is available in [`OnlineRetail_Report.html`](./OnlineRetail_Report.html).
 Rename it to `index.html` and enable GitHub Pages to host it as a live site.
 
--
+---
 
 ## 📦 Dataset Source
 
