@@ -156,12 +156,6 @@ jupyter notebook OnlineRetail_Enhanced.ipynb
 
 ---
 
-##  Report
-
-A full visual report with all 10 charts is available in [`OnlineRetail_Report.html`](./OnlineRetail_Report.html).
-Rename it to `index.html` and enable GitHub Pages to host it as a live site.
-
----
 
 ## 📦 Dataset Source
 
