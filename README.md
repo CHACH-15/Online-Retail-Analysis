@@ -2,7 +2,7 @@
 #  Online Retail — Customer Behaviour & Segmentation Analysis
 
 ##  Live Report
- [View the full report](https://your-username.github.io/online-retail-analysis/)
+ [View the full report]((https://chach-15.github.io/Online-Retail-Analysis/))
 
 A full end-to-end data analysis project on a UK-based e-commerce retailer's transaction data. Covers data cleaning, exploratory analysis, return behaviour, geographic distribution, recency modelling, and unsupervised customer segmentation using KMeans clustering.
 
