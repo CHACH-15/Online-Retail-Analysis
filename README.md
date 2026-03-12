@@ -1,14 +1,14 @@
 
-# 🛒 Online Retail — Customer Behaviour & Segmentation Analysis
+# Online Retail — Customer Behaviour & Segmentation Analysis
 
-## 🌐 Live Report
-👉 [View the full report](https://chach-15.github.io/Online-Retail-Analysis)
+##  Live Report
+ [View the full report](https://chach-15.github.io/Online-Retail-Analysis)
 
 A full end-to-end data analysis project on a UK-based e-commerce retailer's transaction data. Covers data cleaning, exploratory analysis, return behaviour, geographic distribution, recency modelling, and unsupervised customer segmentation using KMeans clustering.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 online-retail-analysis/
@@ -35,7 +35,7 @@ online-retail-analysis/
 
 ---
 
-## 🔍 Notebook — Analysis Pipeline (37 cells)
+## Notebook — Analysis Pipeline
 
 ### 1. Data Loading
 Loads the raw CSV with `InvoiceNo` forced as string to preserve leading zeros.
@@ -97,10 +97,10 @@ Recency computed as days since last purchase relative to dataset end date.
 
 | Cluster | Label | Recommended Action |
 |---|---|---|
-| 0 | 🏆 High-Value Loyalists | VIP programme, early access |
-| 1 | 🔄 Frequent Returners | Quality review, product survey |
-| 2 | 🛒 Regular Buyers | Upsell bundles, subscriptions |
-| 3 | 💤 Low-Engagement | Win-back email + discount |
+| 0 |  High-Value Loyalists | VIP programme, early access |
+| 1 |  Frequent Returners | Quality review, product survey |
+| 2 |  Regular Buyers | Upsell bundles, subscriptions |
+| 3 |  Low-Engagement | Win-back email + discount |
 
 ### 10. Export for Power BI
 Two CSV files written to Desktop:
@@ -109,7 +109,7 @@ Two CSV files written to Desktop:
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 - **UK dominates** — 85%+ of revenue; Germany and France are distant second and third
 - **November spike** — holiday pre-orders cause a sharp revenue peak every year
@@ -120,7 +120,7 @@ Two CSV files written to Desktop:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Install dependencies
@@ -146,7 +146,7 @@ jupyter notebook OnlineRetail_Enhanced.ipynb
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Add full **RFM scoring** (Recency × Frequency × Monetary) per customer
 - Build a **churn probability model** (Logistic Regression or Random Forest)
@@ -156,7 +156,7 @@ jupyter notebook OnlineRetail_Enhanced.ipynb
 
 ---
 
-## 📄 Report
+##  Report
 
 A full visual report with all 10 charts is available in [`OnlineRetail_Report.html`](./OnlineRetail_Report.html).
 Rename it to `index.html` and enable GitHub Pages to host it as a live site.
